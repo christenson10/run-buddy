@@ -14,3 +14,4 @@ https://lernantino.github.io/run-buddy/
 Made with ❤️ by Alex Christenson
 
 ### ©️2019 Run Buddy, Inc 
+git add
